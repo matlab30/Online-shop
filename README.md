@@ -1,2 +1,2 @@
 # Online-shop
-An online shop prototype built with Flutter
+An online shop mobile application prototype built with Flutter 
